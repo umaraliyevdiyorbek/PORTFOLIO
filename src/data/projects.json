@@ -1,0 +1,26 @@
+[
+	{
+		"title": "Gemini AI",
+		"image": "projects/gemini.jpg",
+		"description": "This is a project made to learn the latest skills and technologies",
+		"skills": ["React", "HTML", "CSS"],
+		"demo": "https://www.example.com",
+		"source": "https://www.github.com"
+	},
+	{
+		"title": "ERP Project",
+		"image": "projects/erp.webp",
+		"description": "This is a project made to learn the latest skills and technologies",
+		"skills": ["Next", "HTML", "CSS", "TypesScript"],
+		"demo": "https://www.example.com",
+		"source": "https://www.github.com"
+	},
+	{
+		"title": "UNPLASH",
+		"image": "projects/unsplash.webp",
+		"description": "This is a project made to learn the latest skills and technologies",
+		"skills": ["React", "HTML", "CSS"],
+		"demo": "https://www.example.com",
+		"source": "https://www.github.com"
+	}
+]

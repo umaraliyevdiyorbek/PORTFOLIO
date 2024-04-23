@@ -1,0 +1,38 @@
+[
+	{
+		"title": "HTML",
+		"image": "skills/html.png"
+	},
+	{
+		"title": "CSS",
+		"image": "skills/css.png"
+	},
+	{
+		"title": "React",
+		"image": "skills/react.png"
+	},
+	{
+		"title": "NextJS",
+		"image": "skills/nextJS.png"
+	},
+	{
+		"title": "JavaScript",
+		"image": "skills/javaScript.png"
+	},
+	{
+		"title": "Material UI",
+		"image": "skills/materialUI.png"
+	},
+	{
+		"title": "TypeScript",
+		"image": "skills/typeScript.png"
+	},
+	{
+		"title": "Github",
+		"image": "skills/github.png"
+	},
+	{
+		"title": "Figma",
+		"image": "skills/figma.png"
+	}
+]
